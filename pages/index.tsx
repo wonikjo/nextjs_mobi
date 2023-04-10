@@ -28,6 +28,9 @@ export default function Home() {
               priority
             />
           </a>
+          <div>
+            Test Mobinoma Next JS Using Vercel
+          </div>
         </div>
       </div>
 
